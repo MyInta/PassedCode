@@ -1,0 +1,14 @@
+package practice03.exception;
+
+public class Test02 {
+	public static void main(String[] args) {
+		double a;
+		double b=0;
+		double c;
+		for(int i=0;i<8;i++){
+			a = 3*b+2;	
+			b =a;
+		
+		}
+	}
+}

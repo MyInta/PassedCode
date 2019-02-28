@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 packages to &apos;PlaneGame/src&apos;&#x0D;&#x0A;- Original project: &apos;solarSystem&apos;&#x0D;&#x0A;- Destination element: &apos;PlaneGame/src&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     solarSystem/src/images&#x0D;&#x0A;     solarSystem/src/util" description="Copy packages" destination="=PlaneGame/src" element1="/src&lt;images" element2="/src&lt;util" flags="589830" fragments="2" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1511832487913" version="1.0"/>
+</session>

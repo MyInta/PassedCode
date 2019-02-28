@@ -1,0 +1,22 @@
+package practice03.exception;
+
+public class Test02 {
+	public static void main(String[] args) {
+		double a;
+		double b=0;
+		double c;
+		double temp;
+		for(int i=0;i<12;i++){
+			a = 3*b+2;	
+			c= b-a;
+			if(c<0){
+				c=-c;
+			}
+			temp=a;
+			b =temp;
+			if(c>0&&c<0.01){
+				System.out.println(a);
+			}
+		}
+	}
+}

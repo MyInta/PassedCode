@@ -1,0 +1,14 @@
+package practice03.exception;
+
+public class Test02 {
+	public static void main(String[] args) {
+		for(int i=0;i<8;i++){
+			double a;
+			double b=0;
+			double c;
+			a = 3*b+2;
+						
+		}
+		System.out.println("最终迭代出该数值为"+c);
+	}
+}

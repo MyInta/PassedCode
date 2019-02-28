@@ -1,0 +1,13 @@
+package practice03.exception;
+
+public class Test02 {
+	public static void main(String[] args) {
+		//b=根号（b+2）;用迭代法求b是多少
+		double b=0;
+		double temp;
+		for(int i=0;i<5;i++){
+			b = Math.sqrt(b+2)	;
+		}
+		System.out.println(b);
+	}
+}
